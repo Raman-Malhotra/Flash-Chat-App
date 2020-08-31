@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "915475703649",
+    "firebase_url": "https://flash-app-913d5.firebaseio.com",
+    "project_id": "flash-app-913d5",
+    "storage_bucket": "flash-app-913d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915475703649:android:4c2a40c84e1371c87f4720",
+        "android_client_info": {
+          "package_name": "co.raman.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915475703649-2rv70cf3cuie8jqpmg3rkur7k221kanm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCNwmGvgP6xzylVEeT0AJqOgaFBOizWX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915475703649-2rv70cf3cuie8jqpmg3rkur7k221kanm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
