@@ -1,7 +1,7 @@
 
 
 
-# Flash Chat:The amazing app ⚡️
+# Flash Chat:The amazing chat app ⚡️
 
 modern messaging app where users can sign up and log in to chat.
 
